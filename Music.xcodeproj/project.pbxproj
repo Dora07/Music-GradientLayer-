@@ -15,6 +15,10 @@
 		864C43872588CE430083FD78 /* LaunchScreen.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = 864C43852588CE430083FD78 /* LaunchScreen.storyboard */; };
 		864C43922588CE440083FD78 /* MusicTests.swift in Sources */ = {isa = PBXBuildFile; fileRef = 864C43912588CE440083FD78 /* MusicTests.swift */; };
 		864C439D2588CE440083FD78 /* MusicUITests.swift in Sources */ = {isa = PBXBuildFile; fileRef = 864C439C2588CE440083FD78 /* MusicUITests.swift */; };
+		864C43B02588E4560083FD78 /* Screen Shot 2020-12-15 at 8.31.43 PM.png in Resources */ = {isa = PBXBuildFile; fileRef = 864C43AD2588E4560083FD78 /* Screen Shot 2020-12-15 at 8.31.43 PM.png */; };
+		864C43B12588E4560083FD78 /* Screen Shot 2020-12-15 at 8.31.51 PM.png in Resources */ = {isa = PBXBuildFile; fileRef = 864C43AE2588E4560083FD78 /* Screen Shot 2020-12-15 at 8.31.51 PM.png */; };
+		864C43B22588E4560083FD78 /* Screen Shot 2020-12-15 at 8.31.58 PM.png in Resources */ = {isa = PBXBuildFile; fileRef = 864C43AF2588E4560083FD78 /* Screen Shot 2020-12-15 at 8.31.58 PM.png */; };
+		864C43BC2588E6D30083FD78 /* Screen Shot 2020-12-15 at 8.42.43 PM.png in Resources */ = {isa = PBXBuildFile; fileRef = 864C43BB2588E6D30083FD78 /* Screen Shot 2020-12-15 at 8.42.43 PM.png */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXContainerItemProxy section */
@@ -49,6 +53,10 @@
 		864C43982588CE440083FD78 /* MusicUITests.xctest */ = {isa = PBXFileReference; explicitFileType = wrapper.cfbundle; includeInIndex = 0; path = MusicUITests.xctest; sourceTree = BUILT_PRODUCTS_DIR; };
 		864C439C2588CE440083FD78 /* MusicUITests.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = MusicUITests.swift; sourceTree = "<group>"; };
 		864C439E2588CE440083FD78 /* Info.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist.xml; path = Info.plist; sourceTree = "<group>"; };
+		864C43AD2588E4560083FD78 /* Screen Shot 2020-12-15 at 8.31.43 PM.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; name = "Screen Shot 2020-12-15 at 8.31.43 PM.png"; path = "../../Screen Shot 2020-12-15 at 8.31.43 PM.png"; sourceTree = "<group>"; };
+		864C43AE2588E4560083FD78 /* Screen Shot 2020-12-15 at 8.31.51 PM.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; name = "Screen Shot 2020-12-15 at 8.31.51 PM.png"; path = "../../Screen Shot 2020-12-15 at 8.31.51 PM.png"; sourceTree = "<group>"; };
+		864C43AF2588E4560083FD78 /* Screen Shot 2020-12-15 at 8.31.58 PM.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; name = "Screen Shot 2020-12-15 at 8.31.58 PM.png"; path = "../../Screen Shot 2020-12-15 at 8.31.58 PM.png"; sourceTree = "<group>"; };
+		864C43BB2588E6D30083FD78 /* Screen Shot 2020-12-15 at 8.42.43 PM.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; name = "Screen Shot 2020-12-15 at 8.42.43 PM.png"; path = "../../Screen Shot 2020-12-15 at 8.42.43 PM.png"; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -104,6 +112,10 @@
 				864C437E2588CE410083FD78 /* ViewController.swift */,
 				864C43802588CE410083FD78 /* Main.storyboard */,
 				864C43832588CE430083FD78 /* Assets.xcassets */,
+				864C43AD2588E4560083FD78 /* Screen Shot 2020-12-15 at 8.31.43 PM.png */,
+				864C43AE2588E4560083FD78 /* Screen Shot 2020-12-15 at 8.31.51 PM.png */,
+				864C43AF2588E4560083FD78 /* Screen Shot 2020-12-15 at 8.31.58 PM.png */,
+				864C43BB2588E6D30083FD78 /* Screen Shot 2020-12-15 at 8.42.43 PM.png */,
 				864C43852588CE430083FD78 /* LaunchScreen.storyboard */,
 				864C43882588CE430083FD78 /* Info.plist */,
 			);
@@ -232,8 +244,12 @@
 			buildActionMask = 2147483647;
 			files = (
 				864C43872588CE430083FD78 /* LaunchScreen.storyboard in Resources */,
+				864C43B12588E4560083FD78 /* Screen Shot 2020-12-15 at 8.31.51 PM.png in Resources */,
+				864C43B02588E4560083FD78 /* Screen Shot 2020-12-15 at 8.31.43 PM.png in Resources */,
+				864C43BC2588E6D30083FD78 /* Screen Shot 2020-12-15 at 8.42.43 PM.png in Resources */,
 				864C43842588CE430083FD78 /* Assets.xcassets in Resources */,
 				864C43822588CE410083FD78 /* Main.storyboard in Resources */,
+				864C43B22588E4560083FD78 /* Screen Shot 2020-12-15 at 8.31.58 PM.png in Resources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
